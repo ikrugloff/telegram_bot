@@ -1,7 +1,6 @@
 """
 Project "@DobbyMyBot".
 """
-import random
 import telebot
 from telebot.types import Message
 from telebot import apihelper
